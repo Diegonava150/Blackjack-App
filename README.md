@@ -2,6 +2,6 @@
 
 https://nava-blackjack-app.netlify.app/
 
-Third Project
+3rd Project
 
 ** Creating projects including simple and advanced ones.
